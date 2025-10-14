@@ -1,9 +1,8 @@
 # Data-Science-Group-2---BTF---Muhammad-Rauhan
+AUTHOR: [MUHAMMAD RAUHAN](https://github.com/muhammadrauhan)
 <br>
-AUTHOR -> MUHAMMAD RAUHAN
-<br>
-<h2> Month 01 (Data Analysis): </h2>
-<h3> Week 1 </h3>
+## Month 01 (Data Analysis):
+### Week 1
 <br>
 1: Getting to know about Git. How to use it!
 <br>
@@ -58,8 +57,8 @@ Learnt about in details which included,
 <h3>Month 01 Completed: Data Analysis Project</h3>
 <br>
 
-<h2> Month 02 (Towards Baseline Models): </h2>
-<h3> Week 1 </h3>
+## Month 02 (Towards Baseline Models):
+### Week 1
 <br>
 18: Introduction to Seaborn (visualization with Seaborn).
 <br>
@@ -108,6 +107,6 @@ Key techniques include: Confusion Matrix, Accuracy, Precision, Recall (Sensitivi
 32: Clustering (KMeans).
 <br>
 
-<h2> Month 03 (ADVANCE): </h2>
-<h3> Week 01 </h3>
+## Month 03 (ADVANCE):
+### Week 01
 33: Neural Networks Basics (Perceptron, Activation Functions).
