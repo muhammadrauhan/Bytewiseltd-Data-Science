@@ -1,4 +1,4 @@
-# Data-Science-Group-2---BTF---Muhammad-Rauhan
+# Data Science - Bytewise Ltd.
 AUTHOR: [MUHAMMAD RAUHAN](https://github.com/muhammadrauhan)
 <br>
 ## Month 01 (Data Analysis):
@@ -6,35 +6,35 @@ AUTHOR: [MUHAMMAD RAUHAN](https://github.com/muhammadrauhan)
 <br>
 1: Getting to know about Git. How to use it!
 <br>
-2: Initializing Github repository.
+2: Initializing GitHub repository.
 <br>
-3: Intallation and getting familiar with Jupyter Notebook.
+3: Installation and getting familiar with Jupyter Notebook.
 <br>
 4: Learning Variable, Data types and Operators.
 <br>
-Made Simple DMAS Calculator(Takes input as number then calculates product, division,
+Made Simple DMAS Calculator(Takes input as a number, then calculates product, division,
 addition and subtraction).
 <br>
 5: Conditional Statements(if, elif & else), Loops(for loop, while loop etc) and Functions
 <br>
-Implementation of task 5, worked on functions in Python, made some patterns etc.
+Implementation of task 5, worked on functions in Python, made some patterns, etc.
 <br>
 <h3> Week 2 </h3>
 <br>
-6: File Handling & Exception Handling, using these created a simple Student Management System.
+6: File Handling & Exception Handling, using these, created a simple Student Management System.
 <br>
 <b>Mini Project: Student Management System</b>
 <br>
-7: Using Oject Oriented Programming (OOP) concept I created a Library Management System
+7: Using the Object Oriented Programming (OOP) concept, I created a Library Management System
 <br>
 <b>Mini Project: Library Management System</b>
 <br>
-8: Simple Data Structures (List, Tuple, Set & Dictionary). I developed a Inventory Management System that manages products, categories and stock levels.
+8: Simple Data Structures (List, Tuple, Set & Dictionary). I developed an Inventory Management System that manages products, categories, and stock levels.
 <br>
 <b>Mini Project: Inventory Management System</b>
 <br>
 <h3> Week 3 </h3>
-Learnt about in details which included,
+Learnt in detail, which included,
 9: Introduction to Statistics.
 <br>
 10: Introduction to NumPy (Arrays, Basic operations).
